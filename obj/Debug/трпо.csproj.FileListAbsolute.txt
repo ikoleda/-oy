@@ -1,0 +1,7 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\трпо\трпо\bin\Debug\трпо.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\трпо\трпо\bin\Debug\трпо.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\трпо\трпо\bin\Debug\трпо.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\трпо\трпо\obj\Debug\трпо.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\трпо\трпо\obj\Debug\трпо.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\трпо\трпо\obj\Debug\трпо.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\трпо\трпо\obj\Debug\трпо.pdb
